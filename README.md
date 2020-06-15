@@ -2,4 +2,4 @@ Project  WeekEnd
 
 Only using existing pretaining CNN model 
 
-[Explain](explain.pdf)
+[Explain](Explain.pdf)
